@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/project-academic%20tool-yellow)](#who-is-this-for)
 
 ---
-
+Website live at - https://695eee8dbcbf6056711a33a6--symphonious-peony-532eeb.netlify.app/
 ## 🎯 Project Overview
 
 This is a fully self-contained, browser-based code editor designed for classrooms, workshops, and independent learners. It supports:
