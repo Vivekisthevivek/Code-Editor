@@ -7,6 +7,8 @@
 
 ---
 
+site is live at https://vivekisthevivek.github.io/Code-Editor/
+
 ## 🎯 Project Overview
 
 This is a fully self-contained, browser-based code editor designed for classrooms, workshops, and independent learners. It supports:
